@@ -1,0 +1,8 @@
+.tester:
+  image:
+    name: library/ubuntu:24.04
+    pull_policy: always
+  artifacts:
+    paths: []
+  script:
+    - echo "tester"
