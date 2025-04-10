@@ -9,9 +9,6 @@ workflow:
     - when: always
 
 
-
-
-
 build:
   stage: build
   tags:
