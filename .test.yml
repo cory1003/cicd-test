@@ -1,6 +1,6 @@
 .tester:
   image:
-    name: library/ubuntu:24.04
+    name: library/ubuntu:22.04
     pull_policy: always
   artifacts:
     paths: []
